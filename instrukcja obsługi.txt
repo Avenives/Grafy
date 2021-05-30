@@ -1,0 +1,5 @@
+Dane wejściowe algorytmu znajdują się w pliku "input.txt".
+W pierwszem wierszu znajdują się 3 liczby, są to kolejno: V-ilość wierzchołków w grafie, E-ilość krawędzi w grafie, S-wierzchołek początkowy.
+W kolejnych E wierszach znajdują się po 3 liczby reprezentujące krawędzie, są to kolejno: wierzchołek z którego wychodzi krawędź, wierzchołek do którego wchodzi krawędź, waga krawędzi.
+Wyniki pracy algorytmu są wyświetlane na ekranie oraz zapisywane w pliku "output.txt".
+Wierzchołki numerowane są od 0.

@@ -1,0 +1,4 @@
+Algorytm Bellmana-Forda służy do wyszukiwania najkrótszych ścieżek w grafie ważonym z wierzchołka źródłowego do wszystkich pozostałych wierzchołków.
+Może być też wykożystany do odnajdywania cykli ujemnych w grafie.
+Na algorytmie Bellmana-Forda oparty jest też protokół RIP - Routing Information Protocol.
+Do wyszukiwania najkrótszych ścieżek może również posłużyć algorytm Dijkstry
